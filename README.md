@@ -56,6 +56,6 @@ I’ve delivered projects in customer modeling, recommendation systems, NLP for 
 
 ## 📌 Resume & Contact
 
-📄 [Download Resume](./Harish Kumar Resume.pdf)  
+📄 [Download Resume](./Harish_Kumar_Resume.pdf)  
 📫 sharishkmr@gmail.com  
 🖥️ Portfolio powered by GitHub  
