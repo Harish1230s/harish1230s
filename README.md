@@ -3,23 +3,35 @@
 🎓 **MS in Business Analytics and Artificial Intelligence**  
 📍 Dallas, Texas  
 📧 sharishkmr@gmail.com | 📞 +1 (945) 216 4304  
-🔗 [LinkedIn](https://www.linkedin.com/in/shk30/) | 🧠 Open to full-time roles & internships (STEM OPT eligible)
+🔗 [LinkedIn](https://www.linkedin.com/in/shk30/) | I’m actively looking for full-time roles or internships in Data Science, Data Engineering, or Analytics. 
+  
+I am eligible to work🛠️ in the U.S. for up to 36 months without employer sponsorship under the STEM OPT extension (F-1 visa).
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a graduate student at UT Dallas, passionate about solving business problems with data. 
-With a strong foundation in analytics, machine learning, and cloud-based data platforms.
-I’ve delivered projects in customer modeling, recommendation systems, NLP for risk prediction, and cloud-native data architecture.
+I’m Harish Kumar Sarathi, a graduate student at UT Dallas, specializing in Business Analytics and Artificial Intelligence. I’m passionate about turning complex data into actionable insights and building intelligent, scalable systems using both classical analytics and modern cloud-native tools.
+
+With a background in electronics and IoT, and hands-on experience across Python, R, SQL, AWS, and Power BI, I’ve built data science solutions that range from customer behavior prediction to cloud-based data platforms. I thrive at the intersection of problem-solving, experimentation, and business value creation - and I’m actively looking for opportunities to bring that energy into real-world data teams.
+
 
 **Skills**:  
 
-- **Languages**: Python, R, SQL, Java, C, C++  
-- **ML Tools**: Scikit-learn, PyTorch, StatsModels, SPSS  
-- **Cloud Platforms**: AWS (Redshift, Glue, SageMaker, QuickSight), Azure, Snowflake  
-- **Visualization**: Tableau, Power BI  
-- **Concepts**: Forecasting, Logistic Regression, Random Forest, GBT, LDA, NBD, Poisson, A/B Testing, Data Governance  
+- **🧠Languages**: Python, R, SQL, Java, C, C++  
+- **📊 Analytics & Machine Learning**:
+  - Logistic Regression, Random Forest, Gradient Boosted Trees (GBT), Poisson, NBD, LDA, Zero-Inflated Models
+  - Forecasting, A/B Testing, Experimentation, Data Visualization
+- **⚙️Libraries & Frameworks**: Scikit-learn, PyTorch, Pandas, NumPy, StatsModels, Matplotlib, ggplot2, tidygeocoder, data.table, Scrapy
+- **☁️Cloud Platforms**:
+  - AWS: EC2, Lambda, S3, Redshift, Glue, SageMaker, QuickSight, CloudTrail, IAM, Macie, Lake Formation
+  -  Microsoft Azure: Data Ingestion Pipeline, Spark, Purview, Streaming
+  - Snowflake, Google Analytics
+- **📈Visualization**: Tableau, Power BI
+- **🧰 Software & Dev Tools**: RStudio, Jupyter Notebook, Anaconda, MS Office, PyCharm, LabVIEW, Agile (Jira), Git
+- **🔍 Concepts & Techniques**:
+  - Data Science, Machine Learning (Supervised + Unsupervised), NLP, Data Governance, Data Engineering
+  - Analytical Thinking, Problem Solving, Data Cleaning, Data Wrangling
 - **Soft Skills**: Agile (Jira), Leadership (AIESEC), Communication, Collaboration
 
 ---
@@ -58,4 +70,3 @@ I’ve delivered projects in customer modeling, recommendation systems, NLP for 
 
 📄 [Download Resume](./Harish_Kumar_Resume.pdf)  
 📫 sharishkmr@gmail.com  
-🖥️ Portfolio powered by GitHub  
