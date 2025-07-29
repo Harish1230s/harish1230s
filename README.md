@@ -80,7 +80,7 @@ Supported OLTP + OLAP, real-time ingestion, and ML integration for banking workf
 
 ## 📌 Resume & Contact
 
-📄 [Download Resume](./Harish_Kumar_Resume.pdf)  
+📄 [Download Resume](./Harish Kumar Sarathi.pdf)  
 📫 Email: sharishkmr@gmail.com  
 
 ---
